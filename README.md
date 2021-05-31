@@ -1,3 +1,4 @@
+![Alt](https://github.com/ChA0S-f4me/Umbrella-Server/blob/main/logo.png)
 # Russian
 ## [Тыкни сюда](https://github.com/ChA0S-f4me/Umbrella-Server/blob/main/ru.md)
 
